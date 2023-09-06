@@ -1,0 +1,789 @@
+/* <!--------------------------media-query-for-mobile------------------------------> */
+    @media screen and  (max-width:320px)  {
+        .cust-slider-img {
+            width: 100%;
+            height: 350px;
+        }
+        .caption {
+            bottom: -22%;
+            left: 35%;
+            width: 60%;
+            height: 50%;
+        }
+        .banner-heading {
+            font-size: 25px;
+            line-height: 25px;
+        }
+        .slider-button {
+            margin: 5px 0px;
+        }
+        .button-another {
+            font-size: 15px;
+            line-height: 30px;
+            padding: 5px 28px;
+        }
+        .email-sticky-area {
+            width: 50px;
+        }
+        .email-sticky-area a {
+            display: none;
+        }
+        .add-padding-right {
+            padding-right: 20px;
+        }
+        .small-title {
+            font-size: 20px;
+            line-height: 25px;
+            margin-bottom: 0px;
+        }
+        .middle-title {
+            font-size: 30px;
+            line-height: 35px;
+        }
+        .counter {
+            min-height: 600px;
+        }
+        .count-box {
+            margin-top: 2.5rem;
+        }
+        .counter .heading-area {
+            margin-top: 6rem;
+            text-align: right;
+            margin-left: 7rem;
+        }
+        .counting {
+            font-size: 32px;
+            line-height: 38px;;
+        }
+        .plus-icon {
+            font-size: 20px;
+        }
+        .count-text {
+            font-size: 15px;
+            line-height: 22px;
+        }
+        .division-two p {
+            top: 55%;
+            font-size: 15px;
+            line-height: 24px;
+            text-align: center;
+            padding: 0px 15px;
+        }
+        .call-to-content {
+            margin-top: 1rem;
+        }
+        .call-to-content h2 {
+            font-size: 25px;
+            line-height: 35px;
+        }
+        .call-to-content h4 {
+            font-size: 25px;
+            line-height: 35px;
+        }
+        .call-to-area .button-area {
+            margin: 0.5rem 0rem;
+        }
+        .call-to-area {
+            background-position: right;
+            min-height: 420px;
+        }
+        .black-btn {
+            background: #001205;
+            font-size: 18px;
+            padding: 5px 30px;
+        }
+        .team-area .heading-area {
+            text-align: center;
+            margin-top: -115px;
+            padding: 0px 30px;
+        }
+        .post-slide .post-content {
+            padding: 0px 15px 5px 15px;
+        }
+        .add-padding {
+            padding: 0px 20px 0px 20px;
+        }
+        .footer-menu-email {
+            text-align: left;
+            margin-top: 1rem;
+            margin-bottom: 1rem;
+        }
+        .owl-controls .owl-buttons .owl-prev {
+            left: 0px;
+        }
+        .owl-controls .owl-buttons .owl-next{
+            right: 0px;
+        }
+
+    }
+    @media screen and  (max-width:360px)  {
+        .cust-slider-img {
+            height: 540px;
+        }
+        .caption {
+            bottom: -22%;
+            left: 35%;
+            width: 60%;
+            height: 50%;
+        }
+        .banner-heading {
+            font-size: 25px;
+            line-height: 25px;
+        }
+        .slider-button {
+            margin: 5px 0px;
+        }
+        .button-another {
+            font-size: 15px;
+            line-height: 30px;
+            padding: 5px 28px;
+        }
+        .email-sticky-area {
+            width: 50px;
+        }
+        .email-sticky-area a {
+            display: none;
+        }
+        .add-padding-right {
+            padding-right: 20px;
+        }
+        .small-title {
+            font-size: 20px;
+            line-height: 25px;
+            margin-bottom: 0px;
+        }
+        .middle-title {
+            font-size: 30px;
+            line-height: 35px;
+        }
+        .counter {
+            min-height: 600px;
+        }
+        .count-box {
+            margin-top: 2.5rem;
+        }
+        .counter .heading-area {
+            margin-top: 6rem;
+            text-align: right;
+            margin-left: 7rem;
+        }
+        .counting {
+            font-size: 32px;
+            line-height: 38px;;
+        }
+        .plus-icon {
+            font-size: 20px;
+        }
+        .count-text {
+            font-size: 15px;
+            line-height: 22px;
+        }
+        .division-two p {
+            top: 55%;
+            font-size: 15px;
+            line-height: 24px;
+            text-align: center;
+            padding: 0px 50px;
+        }
+        .call-to-content {
+            margin-top: 1rem;
+        }
+        .call-to-content h2 {
+            font-size: 25px;
+            line-height: 35px;
+        }
+        .call-to-content h4 {
+            font-size: 25px;
+            line-height: 35px;
+        }
+        .call-to-area .button-area {
+            margin: 0.5rem 0rem;
+        }
+        .call-to-area {
+            background-position: right;
+            min-height: 420px;
+        }
+        .black-btn {
+            background: #001205;
+            font-size: 18px;
+            padding: 5px 30px;
+        }
+        .team-area .heading-area {
+            text-align: center;
+            margin-top: -115px;
+            padding: 0px 30px;
+        }
+        .post-slide .post-content {
+            padding: 0px 15px 5px 15px;
+        }
+        .add-padding {
+            padding: 0px 20px 0px 20px;
+        }
+        .footer-menu-email {
+            text-align: left;
+            margin-top: 1rem;
+            margin-bottom: 1rem;
+        }
+        .owl-controls .owl-buttons .owl-prev {
+            left: 0px;
+        }
+        .owl-controls .owl-buttons .owl-next{
+            right: 0px;
+        }
+
+    }
+    @media screen and  (max-width:480px)  { 
+        .cust-slider-img {
+            height: 450px !important;
+        }
+        .caption {
+            bottom: -22% !important;
+            left: 40% !important;
+            width: 60% !important;
+            height: 50% !important;
+        }
+        .banner-heading {
+            font-size: 25px !important;
+            line-height: 25px !important;
+        }
+        .slider-button {
+            margin: 5px 0px !important;
+        }
+        .button-another {
+            font-size: 15px !important;
+            line-height: 30px !important;
+            padding: 5px 28px !important;
+        }
+        .email-sticky-area {
+            width: 50px !important;
+        }
+        .email-sticky-area a {
+            display: none !important;
+        }
+        .add-padding-right {
+            padding-right: 20px !important;
+        }
+        .small-title {
+            font-size: 20px !important;
+            line-height: 25px !important;
+            margin-bottom: 0px !important;
+        }
+        .middle-title {
+            font-size: 30px !important;
+            line-height: 35px !important;
+        }
+        .counter {
+            min-height: 600px !important;
+        }
+        .count-box {
+            margin-top: 2rem !important;
+        }
+        .counter .heading-area {
+            margin-top: 6rem !important;
+            text-align: right !important;
+            margin-left: 8rem !important;
+        }
+        .counting {
+            font-size: 35px !important;
+            line-height: 38px !important;
+        }
+        .plus-icon {
+            font-size: 20px !important;
+        }
+        .count-text {
+            font-size: 18px !important;
+            line-height: 22px !important;
+        }
+        .division-two p {
+            top: 55% !important;
+            font-size: 15px !important;
+            line-height: 24px !important;
+            text-align: center !important;
+        }
+        .call-to-content {
+            margin-top: 1rem !important;
+        }
+        .call-to-content h2 {
+            font-size: 28px !important;
+            line-height: 35px !important;
+        }
+        .call-to-content h4 {
+            font-size: 25px !important;
+            line-height: 35px !important;
+        }
+        .call-to-area .button-area {
+            margin: 0.5rem 0rem !important;
+        }
+        .call-to-area {
+            background-position: right;
+            min-height: 420px;
+        }
+        .black-btn {
+            background: #001205;
+            font-size: 18px;
+            padding: 5px 30px;
+        }
+        .team-area .heading-area {
+            text-align: center;
+            margin-top: -135px;
+            padding: 0px 30px;
+        }
+        .post-slide .post-content {
+            padding: 0px 15px 5px 15px;
+        }
+        .add-padding {
+            padding: 0px 20px 0px 20px;
+        }
+        .footer-menu-email {
+            text-align: left;
+            margin-top: 1rem;
+            margin-bottom: 1rem;
+        }
+        .owl-controls .owl-buttons .owl-prev {
+            left: 0px;
+        }
+        .owl-controls .owl-buttons .owl-next{
+            right: 0px;
+        }
+    }
+    @media screen and (max-width: 600px) {
+        /* For Tablets */
+        .cust-slider-img {
+            height: 540px;
+        }
+        .caption {
+            bottom: -22%;
+            left: 40%;
+            width: 60%;
+            height: 50%;
+        }
+        .banner-heading {
+            font-size: 25px;
+            line-height: 25px;
+        }
+        .slider-button {
+            margin: 5px 0px;
+        }
+        .button-another {
+            font-size: 15px;
+            line-height: 30px;
+            padding: 5px 28px;
+        }
+        .email-sticky-area {
+            width: 50px;
+        }
+        .email-sticky-area a {
+            display: none;
+        }
+        .add-padding-right {
+            padding-right: 20px;
+        }
+        .small-title {
+            font-size: 20px;
+            line-height: 25px;
+            margin-bottom: 0px;
+        }
+        .middle-title {
+            font-size: 30px;
+            line-height: 35px;
+        }
+        .counter {
+            min-height: 600px;
+        }
+        .count-box {
+            margin-top: 0.5rem;
+        }
+        .counter .heading-area {
+            margin-top: 6rem;
+            text-align: right;
+            margin-left: 8rem;
+        }
+        .counting {
+            font-size: 35px;
+            line-height: 38px;;
+        }
+        .plus-icon {
+            font-size: 20px;
+        }
+        .count-text {
+            font-size: 15px;
+            line-height: 22px;
+        }
+        .division-two p {
+            top: 45%;
+            font-size: 15px;
+            line-height: 24px;
+            text-align: center;
+        }
+        .call-to-content {
+            margin-top: 1rem;
+        }
+        .call-to-content h2 {
+            font-size: 28px;
+            line-height: 35px;
+        }
+        .call-to-content h4 {
+            font-size: 25px;
+            line-height: 35px;
+        }
+        .call-to-area .button-area {
+            margin: 0.5rem 0rem;
+        }
+        .call-to-area {
+            background-position: right;
+            min-height: 420px;
+        }
+        .black-btn {
+            background: #001205;
+            font-size: 18px;
+            padding: 5px 30px;
+        }
+        .team-area .heading-area {
+            text-align: center;
+            margin-top: -135px;
+            padding: 0px 30px;
+        }
+        .post-slide .post-content {
+            padding: 0px 15px 5px 15px;
+        }
+        .add-padding {
+            padding: 0px 20px 0px 20px;
+        }
+        .footer-menu-email {
+            text-align: left;
+            margin-top: 1rem;
+            margin-bottom: 1rem;
+        }
+        .owl-controls .owl-buttons .owl-prev {
+            left: 0px;
+        }
+        .owl-controls .owl-buttons .owl-next{
+            right: 0px;
+        }
+    }
+    @media screen and (max-width:640px)  {
+        .cust-slider-img {
+            height: 540px;
+        }
+        .caption {
+            bottom: -22%;
+            left: 40%;
+            width: 60%;
+            height: 50%;
+        }
+        .banner-heading {
+            font-size: 25px;
+            line-height: 25px;
+        }
+        .slider-button {
+            margin: 5px 0px;
+        }
+        .button-another {
+            font-size: 15px;
+            line-height: 30px;
+            padding: 5px 28px;
+        }
+        .email-sticky-area {
+            width: 50px;
+        }
+        .email-sticky-area a {
+            display: none;
+        }
+        .add-padding-right {
+            padding-right: 20px;
+        }
+        .small-title {
+            font-size: 20px;
+            line-height: 25px;
+            margin-bottom: 0px;
+        }
+        .middle-title {
+            font-size: 30px;
+            line-height: 35px;
+        }
+        .counter {
+            min-height: 600px;
+        }
+        .count-box {
+            margin-top: 2rem;
+        }
+        .counter .heading-area {
+            margin-top: 6rem;
+            text-align: right;
+            margin-left: 7rem;
+        }
+        .counting {
+            font-size: 40px;
+            line-height: 45px;;
+        }
+        .plus-icon {
+            font-size: 30px;
+        }
+        .count-text {
+            font-size: 18px;
+            line-height: 22px;
+        }
+        .division-two p {
+            top: 45%;
+            font-size: 15px;
+            line-height: 24px;
+            text-align: center;
+        }
+        .call-to-content {
+            margin-top: 1rem;
+        }
+        .call-to-content h2 {
+            font-size: 28px;
+            line-height: 35px;
+        }
+        .call-to-content h4 {
+            font-size: 25px;
+            line-height: 35px;
+        }
+        .call-to-area .button-area {
+            margin: 0.5rem 0rem;
+        }
+        .call-to-area {
+            background-position: right;
+            min-height: 420px;
+        }
+        .black-btn {
+            background: #001205;
+            font-size: 18px;
+            padding: 5px 30px;
+        }
+        .team-area .heading-area {
+            text-align: center;
+            margin-top: -115px;
+            padding: 0px 30px;
+        }
+        .post-slide .post-content {
+            padding: 0px 15px 5px 15px;
+        }
+        .add-padding {
+            padding: 0px 20px 0px 20px;
+        }
+        .footer-menu-email {
+            text-align: left;
+            margin-top: 1rem;
+            margin-bottom: 1rem;
+        }
+        .owl-controls .owl-buttons .owl-prev {
+            left: -50px;
+        }
+        .owl-controls .owl-buttons .owl-next{
+            right: -50px;
+        }
+        .social-content {
+            margin-right: 0rem;
+        }
+        .container, .container-sm {
+            max-width: 600px;
+        }
+        .division-two {
+            background-size: contain;
+            min-height: 450px;
+            margin-top: -50px;
+        }
+    }
+    @media screen and (max-width:720px)  {
+        .cust-slider-img {
+            width: 100%;
+            height: 450px;
+        }
+        .caption {
+            bottom: -18%;
+            left: 38%;
+            width: 60%;
+            height: 50%;
+        }
+        .banner-heading {
+            font-size: 20px;
+            line-height: 22px;
+        }
+        .slider-button {
+            margin: 5px 0px;
+        }
+        .button-another {
+            font-size: 14px;
+            line-height: 30px;
+            padding: 5px 28px;
+        }
+        .email-sticky-area {
+            width: 50px;
+        }
+        .email-sticky-area a {
+            display: none;
+        }
+        .add-padding-right {
+            padding-right: 20px;
+        }
+        .small-title {
+            font-size: 20px;
+            line-height: 25px;
+            margin-bottom: 0px;
+        }
+        .middle-title {
+            font-size: 34px;
+            line-height: 35px;
+        }
+        .counter {
+            min-height: 600px;
+        }
+        .count-box {
+            margin-top: 2rem;
+        }
+        .counter .heading-area {
+            margin-top: 6rem;
+            text-align: right;
+            margin-left: 13rem;
+        }
+        .counting {
+            font-size: 40px;
+            line-height: 45px;;
+        }
+        .plus-icon {
+            font-size: 30px;
+        }
+        .count-text {
+            font-size: 18px;
+            line-height: 22px;
+        }
+        .division-two p {
+            top: 45%;
+            font-size: 15px;
+            line-height: 24px;
+            text-align: center;
+        }
+        .call-to-content {
+            margin-top: 1rem;
+        }
+        .call-to-content h2 {
+            font-size: 28px;
+            line-height: 35px;
+        }
+        .call-to-content h4 {
+            font-size: 25px;
+            line-height: 35px;
+        }
+        .call-to-area .button-area {
+            margin: 0.5rem 0rem;
+        }
+        .call-to-area {
+            background-position: right;
+            min-height: 420px;
+        }
+        .black-btn {
+            background: #001205;
+            font-size: 18px;
+            padding: 5px 30px;
+        }
+        .team-area .heading-area {
+            text-align: center;
+            margin-top: -115px;
+            padding: 0px 30px;
+        }
+        .post-slide .post-content {
+            padding: 0px 15px 5px 15px;
+        }
+        .add-padding {
+            padding: 0px 20px 0px 20px;
+        }
+        .footer-menu-email {
+            text-align: left;
+            margin-top: 1rem;
+            margin-bottom: 1rem;
+        }
+        .owl-controls .owl-buttons .owl-prev {
+            left: -50px;
+        }
+        .owl-controls .owl-buttons .owl-next{
+            right: -50px;
+        }
+        .social-content {
+            margin-right: 0rem;
+        }
+        .container, .container-sm {
+            max-width: 600px;
+        }
+        .division-two {
+            background-size: contain;
+            min-height: 450px;
+            margin-top: -50px;
+        }
+    }
+
+/* <!--------------------------media-query-for-desktop------------------------------> */
+    
+    @media screen and (min-width:800px)  {
+    }
+    @media screen and (min-width: 992px) {
+    
+    }
+    
+    @media screen and (min-width:768px) and (max-width:1024px){
+        .count-box {
+            margin-top: 2rem;
+        }
+        .count-text {
+            font-size: 26px;
+            color: #fff;
+            line-height: 38px;
+            font-weight: 400;
+            text-transform: capitalize;
+        } 
+    }
+    
+    @media screen and (min-width: 1920px) {
+    /* For Projectors or Higher Resolution Screens (Full HD) */
+    .cust-slider-img{
+        width: 100%;
+    }
+    .footer-logo {
+        text-align: right;
+    }
+    .call-to-area {
+        min-height: 850px;
+    }
+    .count-box {
+        margin-top: 12rem;
+    }
+    .counter {
+        min-height: 1200px;
+    }
+    .manufacture-area .side-image-area {
+        text-align: end;
+    }
+    .img-div a img {
+        width: 100%;
+    }
+    .team-area .heading-area {
+        text-align: right;
+        margin-top: -350px;
+        padding: 30px;
+    }
+    }
+    @media screen and (min-width: 3840px) {
+    /* For 4K Displays (Ultra HD) */
+        .container {
+            max-width: 3810px;
+        }
+        .footer-logo {
+            text-align: right;
+        }
+        .cust-slider-img{
+            width: 100%;
+        }
+        .call-to-area {
+            min-height: 2400px;
+        }
+        .counter {
+            min-height: 3300px;
+        }
+        .manufacture-area .side-image-area {
+            text-align: end;
+        }
+        .img-div a img {
+            width: 100%;
+        }
+    }

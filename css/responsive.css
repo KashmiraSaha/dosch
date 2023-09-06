@@ -1,0 +1,2162 @@
+/********************************** 1199// **********************************/
+@media (min-width: 1199px){
+    /********slider*******/
+    .cust-slider-img {
+        width: 100% !important;
+    }
+        
+}
+/********************************** 1400// **********************************/
+@media (min-width: 1400px){
+    /********slider*******/
+    .cust-slider-img {
+        width: 100% !important;
+    }
+	.counter {
+      min-height: 950px;
+	}
+	.call-to-area {
+      min-height: 650px;
+	}
+}
+/********************************** 1600// **********************************/
+@media (min-width: 1600px){
+    /********slider*******/
+    .cust-slider-img {
+        width: 100% !important;
+    }
+	.counter {
+    	min-height: 1100px;
+	}
+	.call-to-area {
+    	min-height: 850px;
+	}
+}
+/********************************** 1920// **********************************/
+
+@media (min-width: 1920px){
+    .caption {
+        bottom: -18%;
+        left: 38%;
+    }
+    /********slider*******/
+    .cust-slider-img {
+        width: 100% !important;
+    }
+    .banner-heading {
+        font-size: 65px;
+        line-height: 85px;
+    }
+    .button-another {
+        border-radius: 100px;
+        font-size: 28px;
+        line-height: 28px;
+        padding: 27px 60px;
+    }
+    /*counter*/
+    .counter {
+        min-height: 1250px;
+    }
+    .count-box {
+        margin-top: 6rem;
+    }
+    .counter-icon img {
+        min-width: 25%;
+        margin-bottom: 50px;
+    }
+    .counting {
+        font-size: 80px;
+        line-height: 100px;
+    }
+    .plus-icon {
+        font-size: 65px;
+        line-height: 70px;
+    }
+    .count-text {
+        font-size: 30px;
+        color: #fff;
+        line-height: 40px;
+    }
+    .counter .heading-area {
+        margin-top: 20rem;
+    }
+    /* call to action */
+    .call-to-area {
+        min-height: 870px;
+    }
+    .call-to-content {
+        margin-top: 4rem;
+    }
+    .call-to-content h2 {
+        color: #fff;
+        font-size: 65px;
+        line-height: 100px;
+    }
+    .call-to-content h4 {
+        font-size: 65px;
+        line-height: 90px;
+    }
+    .black-btn {
+        border-radius: 100px;
+        font-size: 40px;
+        line-height: 20px;
+        padding: 40px 65px;
+    }
+    /******about us******/
+    .mabout-us .side-image-area {
+        text-align: end;
+    }
+    .about-us .side-image-area img {
+        min-width: 100%;
+    }
+    .about-us .paragraph-area p {
+        margin: 2rem 0px;
+    }
+    .btn-dashed {
+        font-size: 35px;
+        line-height: 50px;
+    }
+    /*****manufacture*****/
+    .manufacture-area .side-image-area {
+        text-align: end;
+    }
+    .manufacture-area .side-image-area img {
+        min-width: 100%;
+    }
+    .custom-accordion {
+        font-size: 30px;
+        line-height: 55px;
+        padding: 8px 10px;
+    }
+    .custom-accordion:after {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .custom-accordion.active:after {
+        content: "\f0d7";
+        font-family: "fontawesome";
+        font-size: 35px;
+        color: #e4322b;
+    }
+    .panel {
+        padding: 30px 5px;
+    }
+    .panel p {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    /***********products*******/
+    .img-div a img {
+        min-width: 100%;
+        height: 100%;
+        min-height: 300px;
+
+    }
+    .img-title-div {
+        background: #e1312a;
+        padding: 15px 10px;
+    }
+    .img-title-div a {
+        font-size: 30px;
+        line-height: 50px;
+    }
+    .img-title-div a span {
+        font-size: 25px;
+        line-height: 50px;
+    }
+    /************title*********/
+    .small-title {
+        font-size: 50px;
+        line-height: 65px;
+        margin-bottom: 0px;
+    }
+    .middle-title {
+        font-size: 55px;
+        line-height: 60px;
+    }
+    .paragraph-area p {
+        font-size: 35px;
+        line-height: 50px;
+        text-align: justify;
+    }
+    /**********container*********/
+    .container, .container-lg, .container-md, .container-sm, .container-xl {
+        max-width: 80%;
+    }
+    /********value********/
+    .icon-img img {
+        width: 30%;
+    }
+    .division-two {
+        min-height: 580px;
+        margin-top: -20px;
+    }
+    .icon-text h5 {
+        font-size: 50px;
+        line-height: 60px;
+    }
+    .division-two p {
+        top: 55%;
+        font-size: 20px;
+        line-height: 25px;
+        padding: 0px 80px;
+        position: absolute;
+    }
+    /*social*/
+    .particels img {
+        width: 30%;
+    }
+    /*scroll*/
+    #scroll {
+        width: 100px;
+        height: 100px;
+        line-height: 95px;
+        border-radius: 50%;
+        font-size: 65px;
+    }
+    /*sticky*/
+    .email-sticky-area {
+        top: 2%;
+        width: 340px;
+        padding: 8px 15px;
+    }
+    .email-sticky-area span i {
+        font-size: 36px;
+        line-height: 55px;
+    }
+    .email-sticky-area a {
+        font-size: 35px;
+        line-height: 60px;
+    }
+    /***********header**********/
+    .site-navbar .site-navigation .site-menu > li > a {
+        font-size: 30px;
+        padding: 10px 30px;
+    }
+    .logo-img img {
+        max-width: 100%;
+        width: 100%;
+    }
+    /**************team***************/
+    .team-area .heading-area {
+        text-align: right;
+        margin-top: -350px;
+        padding: 30px 0px 0px 1000px;
+    }
+    .post-slide .post-content {
+        padding: 15px 20px 15px;
+    }
+    .post-slide .post-title a {
+        line-height: 35px;
+        font-size: 25px;
+    }
+    .post-slide .post-description {
+        line-height: 38px;
+        font-size: 25px;
+        margin-bottom: 0px;
+    }
+    /********footer***********/
+    .footer-menu-email {
+        text-align: left;
+    }
+    .footer-menu-email ul li a {
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .footer-title h4 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .footer-menu ul li a {
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .footer-paragraph p {
+        font-size: 25px;
+        line-height: 35px;;
+    }
+    .copy-right-area p {
+        font-size: 25px;
+        line-height: 35px;
+    }
+}
+
+/********************************** 2500// **********************************/
+@media (min-width: 2500px){
+    /********slider*******/
+    .cust-slider-img {
+        width: 100% !important;
+    }
+    .banner-heading {
+        font-size: 85px;
+        line-height: 100px;
+    }
+    .button-another {
+        border-radius: 100px;
+        font-size: 50px;
+        line-height: 30px;
+        padding: 50px 85px;
+    }
+    /*counter*/
+    .counter {
+        min-height: 1650px;
+    }
+    .count-box {
+        margin-top: 2.5rem;
+    }
+    .counter-icon img {
+        min-width: 25%;
+        margin-bottom: 50px;
+    }
+    .counting {
+        font-size: 100px;
+        line-height: 120px;
+    }
+    .plus-icon {
+        font-size: 85px;
+        line-height: 100px;
+    }
+    .count-text {
+        font-size: 50px;
+        color: #fff;
+        line-height: 100px;
+    }
+    .counter .heading-area {
+        margin-top: 20rem;
+    }
+    /* call to action */
+    .call-to-area {
+        min-height: 1150px;
+    }
+    .call-to-content {
+        margin-top: 4rem;
+    }
+    .call-to-content h2 {
+        color: #fff;
+        font-size: 95px;
+        line-height: 115px;
+    }
+    .call-to-content h4 {
+        font-size: 85px;
+        line-height: 100px;
+    }
+    .black-btn {
+        border-radius: 100px;
+        font-size: 40px;
+        line-height: 20px;
+        padding: 40px 65px;
+    }
+    /******about us******/
+    .mabout-us .side-image-area {
+        text-align: end;
+    }
+    .about-us .side-image-area img {
+        min-width: 100%;
+    }
+    .about-us .paragraph-area p {
+        margin: 3rem 0px;
+    }
+    .btn-dashed {
+        font-size: 50px;
+        line-height: 60px;
+    }
+    /*****manufacture*****/
+    .manufacture-area .side-image-area {
+        text-align: end;
+    }
+    .manufacture-area .side-image-area img {
+        min-width: 100%;
+    }
+    .custom-accordion {
+        font-size: 50px;
+        padding: 40px 10px;
+    }
+    .custom-accordion:after {
+        font-size: 55px;
+        line-height: 55px;
+    }
+    .panel {
+        padding: 30px 5px;
+    }
+    .panel p {
+        font-size: 28px;
+        line-height: 35px;
+    }
+    /***********products*******/
+    .img-div a img {
+        min-width: 100%;
+        height: 100%;
+        max-height: 300px;
+    }
+    .img-title-div {
+        background: #e1312a;
+        padding: 20px 20px;
+    }
+    .img-title-div a {
+        font-size: 40px;
+        line-height: 65px;
+    }
+    .img-title-div a span {
+        font-size: 35px;
+        line-height: 70px;
+    }
+    /************title*********/
+    .small-title {
+        font-size: 50px;
+        line-height: 65px;
+        margin-bottom: 0px;
+    }
+    .middle-title {
+        font-size: 75px;
+        line-height: 100px;
+    }
+    .paragraph-area p {
+        font-size: 45px;
+        line-height: 70px;
+        text-align: justify;
+    }
+    /**********container*********/
+    .container, .container-lg, .container-md, .container-sm, .container-xl {
+        max-width: 80%;
+    }
+    /********value********/
+    .icon-img img {
+        width: 30%;
+    }
+    .division-two {
+        min-height: 750px;
+        margin-top: -100px;
+    }
+    .icon-text h5 {
+        font-size: 70px;
+        line-height: 80px;
+    }
+    .division-two p {
+        top: 52%;
+        font-size: 35px;
+        line-height: 60px;
+        padding: 0px 85px;
+    }
+    /*social*/
+    .particels img {
+        width: 30%;
+    }
+    /*scroll*/
+    #scroll {
+        width: 100px;
+        height: 100px;
+        line-height: 95px;
+        border-radius: 50%;
+        font-size: 65px;
+    }
+    /*sticky*/
+    .email-sticky-area {
+        top: 25%;
+        width: 450px;
+        padding: 25px 15px;
+    }
+    .email-sticky-area span i {
+        font-size: 50px;
+        line-height: 60px;
+    }
+    .email-sticky-area a {
+        font-size: 50px;
+        line-height: 60px;
+    }
+    /***********header**********/
+    .site-navbar .site-navigation .site-menu > li > a {
+        font-size: 50px;
+        padding: 10px 30px;
+    }
+    .logo-img img {
+        max-width: 100%;
+        width: 100%;
+    }
+    /**************team***************/
+    .team-area .heading-area {
+        text-align: right;
+        margin-top: -350px;
+        padding: 30px;
+    }
+    .post-slide .post-content {
+        padding: 25px 20px 25px;
+    }
+    .post-slide .post-title a {
+        font-size: 40px;
+        line-height: 45px;
+    }
+    .post-slide .post-description {
+        line-height: 40px;
+        font-size: 35px;
+    }
+    /********footer***********/
+    .footer-menu-email {
+        text-align: left;
+    }
+    .footer-menu-email ul li a {
+        font-size: 35px;
+        line-height: 55px;
+    }
+    .footer-title h4 {
+        font-size: 40px;
+        line-height: 55px;
+    }
+    .footer-menu ul li a {
+        font-size: 35px;
+        line-height: 55px;
+    }
+    .footer-paragraph p {
+        font-size: 35px;
+        line-height: 55px;;
+    }
+    .copy-right-area p {
+        font-size: 38px;
+        line-height: 45px;
+    }
+}
+
+
+/********************************** 3840// **********************************/
+@media (min-width: 3840px) {
+    /********slider*******/
+    .caption {
+        bottom: -22%;
+        left: 38%;
+    }
+    .cust-slider-img {
+        width: 100% !important;
+    }
+    .banner-heading {
+        font-size: 134px;
+        line-height: 150px;
+    }
+    .button-another {
+        border-radius: 100px;
+        font-size: 50px;
+        line-height: 30px;
+        padding: 50px 85px;
+    }
+    /*counter*/
+    .counter {
+        min-height: 2500px;
+    }
+    .count-box {
+        margin-top: 18rem;
+    }
+    .counter-icon img {
+        min-width: 25%;
+        margin-bottom: 50px;
+    }
+    .counting {
+        font-size: 150px;
+        line-height: 160px;
+    }
+    .plus-icon {
+        font-size: 115px;
+        line-height: 120px;
+    }
+    .count-text {
+        font-size: 80px;
+        color: #fff;
+        line-height: 100px;
+    }
+    .counter .heading-area {
+        margin-top: 30rem;
+    }
+    /* call to action */
+    .call-to-area {
+        min-height: 1750px;
+    }
+    .call-to-content {
+        margin-top: 18rem;
+    }
+    .call-to-content h2 {
+        color: #fff;
+        font-size: 120px;
+        line-height: 150px;
+    }
+    .call-to-content h4 {
+        font-size: 100px;
+        line-height: 120px;
+    }
+    .black-btn {
+        border-radius: 100px;
+        font-size: 50px;
+        line-height: 30px;
+        padding: 50px 85px;
+    }
+    /******about us******/
+    .mabout-us .side-image-area {
+        text-align: end;
+    }
+    .about-us .side-image-area img {
+        min-width: 100%;
+    }
+    .about-us .paragraph-area p {
+        margin: 3rem 0px;
+    }
+    .btn-dashed {
+        font-size: 60px;
+        line-height: 80px;
+    }
+    /*****manufacture*****/
+    .manufacture-area .side-image-area {
+        text-align: end;
+    }
+    .manufacture-area .side-image-area img {
+        min-width: 100%;
+    }
+    .custom-accordion {
+        font-size: 68px;
+        padding: 55px 10px;
+    }
+    .custom-accordion:after {
+        font-size: 55px;
+        line-height: 55px;
+    }
+    .panel {
+        padding: 50px 5px;
+    }
+    .panel p {
+        font-size: 60px;
+        line-height: 80px;
+    }    
+    /***********products*******/
+    .img-div a img {
+        min-width: 100%;
+        max-height: 450px;
+    }
+    .img-title-div {
+        background: #e1312a;
+        padding: 45px 25px;
+    }
+    .img-title-div a {
+        font-size: 55px;
+        line-height: 65px;
+    }
+    .img-title-div a span {
+        font-size: 55px;
+    }
+    /************title*********/
+    .small-title {
+        font-size: 85px;
+        line-height: 150px;
+    }
+    .middle-title {
+        font-size: 120px;
+        line-height: 125px;
+    }
+    .paragraph-area p {
+        font-size: 60px;
+        line-height: 80px;
+        text-align: justify;
+    }
+    /**********container*********/
+    .container, .container-lg, .container-md, .container-sm, .container-xl {
+        max-width: 80%;
+    }
+    /********value********/
+    .icon-img img {
+        width: 30%;
+    }
+    .division-two {
+        min-height: 1200px;
+        margin-top: -350px;
+    }
+    .icon-text h5 {
+        font-size: 70px;
+        line-height: 80px;
+    }
+    .division-two p {
+        top: 40%;
+        font-size: 45px;
+        line-height: 80px;
+        padding: 0px 200px;
+    }
+    /*social*/
+    .particels img {
+        width: 30%;
+    }
+    /*scroll*/
+    #scroll {
+        width: 150px;
+        height: 150px;
+        line-height: 140px;
+        border-radius: 50%;
+        font-size: 100px;
+    }
+    /*sticky*/
+    .email-sticky-area {
+        top: 10%;
+        width: 450px;
+        padding: 25px 15px;
+    }
+    .email-sticky-area span i {
+        font-size: 50px;
+        line-height: 60px;
+    }
+    .email-sticky-area a {
+        font-size: 50px;
+        line-height: 60px;
+    }
+    /***********header**********/
+    .site-navbar .site-navigation .site-menu > li > a {
+        font-size: 50px;
+        padding: 10px 30px;
+    }
+    .logo-img img {
+        max-width: 100%;
+        width: 100%;
+    }
+    /**************team***************/
+    .team-area .heading-area {
+        text-align: right;
+        margin-top: -350px;
+        padding: 30px;
+    }
+    .post-slide .post-content {
+        padding: 25px 20px 25px;
+    }
+    .post-slide .post-title a {
+        font-size: 55px;
+        line-height: 80px;
+    }
+    .post-slide .post-description {
+        line-height: 80px;
+        font-size: 58px;
+    }
+    /********footer***********/
+    .footer-menu-email {
+        text-align: left;
+    }
+    .footer-menu-email ul li a {
+        font-size: 55px;
+        line-height: 95px;
+    }
+    .footer-title h4 {
+        font-size: 60px;
+        line-height: 95px;
+    }
+    .footer-menu ul li a {
+        font-size: 55px;
+        line-height: 95px;
+    }
+    .footer-paragraph p {
+        font-size: 55px;
+        line-height: 95px;;
+    }
+    .copy-right-area p {
+        font-size: 55px;
+        line-height: 75px;
+    }
+}
+/**********************mobile device******************/
+@media screen and (min-width:768px) and (max-width:1024px){
+    /* toogle menu */
+    .site-menu-toggle span {
+        color: #e4322b;
+        font-size: 25px;
+        line-height: 6px;
+    }
+    /* container */
+    .container, .container-sm {
+        max-width: 700px;
+    }
+    /* sticky */
+    .email-sticky-area {
+        top: 1%;
+    }
+    /* slider */
+    .cust-slider-img {
+        width: 100% !important;
+        min-height: 500px;
+        margin-bottom: 4rem;
+    }
+    .caption {
+        bottom: -15%;
+        left: 34%;
+        width: 65%;
+    }
+    .banner-heading {
+        font-size: 32px;
+        line-height: 35px;
+    }
+    .slider-button {
+        margin: 7px 0px 0px;
+    }
+    .button-another {
+        font-size: 18px;
+        line-height: 25px;
+        padding: 12px 35px
+    }
+    /*value area*/
+    .icon-img img {
+        width: 150px;
+    }
+    .icon-text h5 {
+        font-size: 38px;
+        line-height: 42px;
+    }
+    .small-title {
+        font-size: 25px;
+        line-height: 32px;
+        margin-bottom: 10px;
+    }
+    .middle-title {
+        font-size: 40px;
+        line-height: 45px;
+    }
+    .division-two {
+        min-height: 600px;
+        margin-top: -100px;
+        background-size: contain;
+    }
+    .division-two p {
+        top: 50%;
+        font-size: 25px;
+        line-height: 36px;
+        text-align: center;
+        padding: 0px 150px !important;
+    }
+    /*****about us*****/
+    .side-image-area {
+        margin-bottom: 1rem;
+    }
+    .add-padding-right {
+        padding-right: 10px;
+    }
+    .paragraph-area p {
+        font-size: 22px;
+        line-height: 30px;
+        text-align: justify;
+    }
+    .btn-dashed {
+        font-size: 26px;
+        text-transform: capitalize;
+        line-height: 20px;
+        font-weight: 400;
+        color: #000;
+    }
+    /*******counter******/
+    .counter {
+        min-height: 580px;
+    }
+    .counter .heading-area {
+        margin-top: 5rem;
+        text-align: right;
+        margin-left: 0rem;
+    }
+    .counter-icon img {
+        width: 80px;
+    }
+    .counting {
+        font-size: 48px;
+        line-height: 45px;
+    }
+    .plus-icon {
+        font-size: 26px;
+        line-height: 40px;
+        top: 90px;
+        position: absolute;
+    }
+    .count-text {
+        font-size: 23px;
+        line-height: 25px;
+    }
+    .count-box {
+        margin-top: 2.5rem;
+    }
+    /* social */
+    .owl-controls .owl-buttons .owl-prev {
+        left: 0px;
+    }
+    .owl-controls .owl-buttons .owl-next {
+        right: 0px;
+    }
+    .social-content .paragraph-area p {
+        text-align: right;
+    }
+    .activity-img img {
+        min-width: 100%;
+    }
+    .particels img {
+        width: 100px;
+    }
+    /***********our product**********/
+    .img-div img {
+        display: block;
+        overflow: hidden;
+        max-width: 100%;
+    }
+    /************* team ************/
+    .post-slide .post-content {
+        padding: 0px 15px 2px 15px;
+    }
+    .post-slide {
+        margin: 0px 5px 10px;
+        padding-top: 0px;
+    }
+    /******* call to action *******/
+    .call-to-area {
+        background-position: right;
+        min-height: 380px;
+    }
+    .call-to-content {
+        margin-top: 2rem;
+    }
+    .call-to-content h2 {
+        font-size: 38px;
+        line-height: 42px;
+    }
+    .call-to-content h4 {
+        font-size: 35px;
+        line-height: 55px;
+    }
+    .call-to-area .button-area {
+        margin: 0.5rem 0rem;
+    }
+    .black-btn {
+        background: #001205;
+        font-size: 26px;
+        padding: 10px 35px;
+    }
+    .team-area .heading-area {
+        text-align: right;
+        margin-top: -135px;
+        margin-bottom: 20px;
+        padding: 0px 45px 0px 275px;
+    }
+    /********faq*****/
+    .add-padding {
+        padding: 0px 10px 0px 10px;
+    }
+    /***** footer ****/
+    .footer-menu-email {
+        text-align: left;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+    .footer-logo a img {
+        max-width: 250px;
+    }
+    .history-year:after {
+        display: none;
+    }
+    .last-three:after {
+        display: none;
+    }
+    .last-two:after {
+        display: none;
+    }
+    .last-one:after {
+        display: none;
+    }
+    .last-four:after {
+        display: none;
+    }
+    .breadcrumb-content h1 {
+        font-size: 35px;
+        line-height: 40px;
+    }
+    .breadcrumb-content h3 {
+        font-size: 35px;
+        line-height: 40px;
+    }
+    .border-div {
+        display: none;
+    }
+}
+@media (max-width: 991px){
+    
+}
+
+@media (max-width: 960px) {
+
+}
+@media (max-width: 768px){
+
+}
+@media (max-width: 767px){
+    .d-xs-none{
+        display: none;
+    }
+    .breadcrumb-content h1 {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .breadcrumb-content h2 {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .breadcrumb-content h3 {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .breadcrumb-section {
+        min-height: 200px;
+        background-position: right;
+    }
+    .breadcrumb-content {
+        margin-top: 10rem;
+        margin-bottom: 5rem;
+    }
+    .list-inline-item {
+        display: contents;
+    }
+    .border-div {
+        border: 1px solid #fff;
+        margin: 20px 0px;
+        display: none;
+    }
+    .history-year:after {
+        display: none;
+    }
+    .last-three:after {
+        display: none;
+    }
+    .last-two:after {
+        display: none;
+    }
+    .last-one:after {
+        display: none;
+    }
+    .last-four:after {
+        display: none;
+    }
+    .last-five:after{
+        display: none;
+    }
+    .last-six:after{
+        display: none;
+    }
+    .last-seven:after{
+        display: none;
+    }
+    .contact-details {
+        padding: 10px 10px 0px;
+    }
+    .contact-form-area {
+        padding: 40px 20px 30px 20px;
+    }
+    .add-padding-left {
+        padding-left: 10px;
+    }
+    .another-product-content-area {
+        padding: 0px 20px 20px;
+    }
+    .footer-logo-area {
+        position: absolute;
+        right: 0px;
+        margin-top: 4rem;
+    }
+    .copy-right-area {
+        text-align: left;
+        padding-bottom: 30px;
+    }
+    .footer {
+        background: url(../img/query.png) no-repeat left scroll;
+        background-size: cover;
+        width: 100%;
+        position: relative;
+        padding-bottom: 175px;
+    }
+}
+@media (max-width: 720px){
+    /* container */
+    .container, .container-sm {
+        max-width: 700px;
+    }
+    /* sticky */
+    .email-sticky-area {
+        top: 1%;
+    }
+    /* slider */
+    .cust-slider-img {
+        width: 100% !important;
+        min-height: 500px;
+        margin-bottom: 4rem;
+    }
+    .caption {
+        bottom: -12%;
+        left: 37%;
+        width: 65%;
+    }
+    .banner-heading {
+        font-size: 35px;
+        line-height: 35px;
+    }
+    .slider-button {
+        margin: 7px 0px 0px;
+    }
+    .button-another {
+        font-size: 14px;
+        line-height: 25px;
+        padding: 5px 25px;
+    }
+    /*value area*/
+    .icon-img img {
+        width: 150px;
+    }
+    .icon-text h5 {
+        font-size: 38px;
+        line-height: 42px;
+    }
+    .small-title {
+        font-size: 25px;
+        line-height: 32px;
+        margin-bottom: 10px;
+    }
+    .middle-title {
+        font-size: 40px;
+        line-height: 45px;
+    }
+    .division-two {
+        min-height: 600px;
+        margin-top: -100px;
+        background-size: contain;
+    }
+    .division-two p {
+        top: 50%;
+        font-size: 25px;
+        line-height: 36px;
+        text-align: center;
+        padding: 0px 150px !important;
+    }
+    /*****about us*****/
+    .side-image-area {
+        margin-bottom: 1rem;
+    }
+    .add-padding-right {
+        padding-right: 10px;
+    }
+    .paragraph-area p {
+        font-size: 22px;
+        line-height: 30px;
+        text-align: justify;
+    }
+    .btn-dashed {
+        font-size: 26px;
+        text-transform: capitalize;
+        line-height: 20px;
+        font-weight: 400;
+        color: #000;
+    }
+    /*******counter******/
+    .counter {
+        min-height: 580px;
+    }
+    .counter .heading-area {
+        margin-top: 5rem;
+        text-align: right;
+        margin-left: 20rem;
+    }
+    .counter-icon img {
+        width: 80px;
+    }
+    .counting {
+        font-size: 48px;
+        line-height: 45px;
+    }
+    .plus-icon {
+        font-size: 26px;
+        line-height: 40px;
+        top: 70px;
+        position: absolute;
+    }
+    .count-text {
+        font-size: 23px;
+        line-height: 25px;
+    }
+    .count-box {
+        margin-top: 2.5rem;
+    }
+    /* social */
+    .owl-controls .owl-buttons .owl-prev {
+        left: 0px;
+    }
+    .owl-controls .owl-buttons .owl-next {
+        right: 0px;
+    }
+    .social-content .paragraph-area p {
+        text-align: right;
+    }
+    .particels img {
+        width: 100px;
+    }
+    /***********our product**********/
+    .img-div img {
+        display: block;
+        overflow: hidden;
+        max-width: 100%;
+    }
+    /************* team ************/
+    .post-slide .post-content {
+        padding: 0px 15px 2px 15px;
+    }
+    .post-slide {
+        margin: 0px 5px 10px;
+        padding-top: 0px;
+    }
+    /******* call to action *******/
+    .call-to-area {
+        background-position: right;
+        min-height: 380px;
+    }
+    .call-to-content {
+        margin-top: 2rem;
+    }
+    .call-to-content h2 {
+        font-size: 38px;
+        line-height: 42px;
+    }
+    .call-to-content h4 {
+        font-size: 35px;
+        line-height: 55px;
+    }
+    .call-to-area .button-area {
+        margin: 0.5rem 0rem;
+    }
+    .black-btn {
+        background: #001205;
+        font-size: 26px;
+        padding: 10px 35px;
+    }
+    .team-area .heading-area {
+        text-align: right;
+        margin-top: -135px;
+        margin-bottom: 20px;
+        padding: 0px 45px 0px 275px;
+    }
+    /********faq*****/
+    .add-padding {
+        padding: 0px 10px 0px 10px;
+    }
+    /***** footer ****/
+    .footer-menu-email {
+        text-align: left;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+    .footer-logo a img {
+        max-width: 250px;
+    }
+}
+@media (max-width: 550px){
+}
+@media (max-width: 600px){
+    .caption {
+        bottom: -14%;
+        left: 34%;
+        width: 64%;
+    }
+    .icon-text h5 {
+        font-size: 28px;
+        line-height: 30px;
+    }
+    .counter .heading-area {
+        margin-left: 15rem;
+    }
+    .team-area .heading-area {
+        text-align: center;
+        margin-top: -130px;
+        padding: 0px 45px 0px 175px;
+    }
+    .division-two p {
+        top: 50%;
+        font-size: 18px;
+        line-height: 26px;
+        text-align: center;
+        padding: 0px 170px !important;
+    }
+}
+@media (max-width: 650px){
+   /* sticky */
+	.sticky-mail-two {
+        display: none;
+    }
+    .email-sticky-area {
+        position: fixed;
+        width: 50px;
+    }
+    /* slider */
+    .cust-slider-img {
+        width: 100% !important;
+        min-height: 400px;
+        margin-bottom: 3rem;
+    }
+    .caption {
+        bottom: -14%;
+        left: 34%;
+        width: 90%;
+    }
+    .banner-heading {
+        font-size: 28px;
+        line-height: 30px;
+    }
+    .slider-button {
+        margin: 5px 0px 0px;
+    }
+    .button-another {
+        font-size: 14px;
+        line-height: 25px;
+        padding: 5px 25px;
+    }
+    /*value area*/
+    .small-title {
+        font-size: 18px;
+        line-height: 20px;
+        margin-bottom: 5px;
+    }
+    .middle-title {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .division-two {
+        min-height: 420px;
+        margin-top: -100px;
+    }
+    .division-two p {
+        top: 52%;
+        font-size: 18px;
+        line-height: 26px;
+        text-align: center;
+        padding: 0px 185px !important;
+    }
+    /*****about us*****/
+    .side-image-area {
+        margin-bottom: 1rem;
+    }
+    .add-padding-right {
+        padding-right: 10px;
+    }
+    .paragraph-area p {
+        font-size: 15px;
+        line-height: 25px;
+        text-align: justify;
+    }
+    .btn-dashed {
+        font-size: 18px;
+        text-transform: capitalize;
+        line-height: 20px;
+        font-weight: 400;
+        color: #000;
+    }
+    /*******counter******/
+    .counter {
+        min-height: 445px;
+    }
+    .counter .heading-area {
+        margin-top: 5rem;
+        text-align: right;
+        margin-left: 18rem;
+    }
+    .counter-icon img {
+        width: 55px;
+    }
+    .counting {
+        font-size: 35px;
+        line-height: 38px;
+    }
+    .plus-icon {
+        font-size: 15px;
+        line-height: 40px;
+        top: 55px;
+        position: absolute;
+    }
+    .count-text {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .count-box {
+        margin-top: 1.5rem;
+    }
+    /* social */
+    .owl-controls .owl-buttons .owl-prev {
+        left: 0px;
+    }
+    .owl-controls .owl-buttons .owl-next {
+        right: 0px;
+    }
+    .social-content .paragraph-area p {
+        text-align: right;
+    }
+    .particels img {
+        width: 100px;
+    }
+    /***********our product**********/
+    .img-div img {
+        display: block;
+        overflow: hidden;
+        max-width: 100%;
+    }
+    .img-title-div a {
+        font-size: 18px;
+    }
+    /************* team ************/
+    .post-slide .post-content {
+        padding: 0px 15px 2px 15px;
+    }
+    .post-slide {
+        margin: 0px 5px 10px;
+        padding-top: 0px;
+    }
+    /******* call to action *******/
+    .call-to-area {
+        background-position: right;
+        min-height: 380px;
+    }
+    .call-to-content {
+        margin-top: 0.5rem;
+    }
+    .call-to-content h2 {
+        font-size: 25px;
+        line-height: 32px;
+    }
+    .call-to-content h4 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .call-to-area .button-area {
+        margin: 0.5rem 0rem;
+    }
+    .black-btn {
+        background: #001205;
+        font-size: 18px;
+        padding: 5px 30px;
+    }
+    .team-area .heading-area {
+        text-align: center;
+        margin-top: -135px;
+        padding: 0px 45px 0px 180px;
+    }
+    /********faq*****/
+    .add-padding {
+        padding: 0px 10px 0px 10px;
+    }
+    /***** footer ****/
+    .footer-menu-email {
+        text-align: left;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+    .footer-logo a img {
+        max-width: 200px;
+    }
+}
+@media (max-width: 480px){
+    
+}
+
+@media (max-width: 467px){   
+    /* sticky */
+	.sticky-mail-two {
+        display: none;
+    }
+    .email-sticky-area {
+        position: fixed;
+        width: 40px;
+    }
+    /* slider */
+    .cust-slider-img {
+        width: 100% !important;
+        min-height: 400px;
+        margin-bottom: 3rem;
+    }
+    .caption {
+        bottom: -14%;
+        left: 34%;
+        width: 90%;
+    }
+    .banner-heading {
+        font-size: 28px;
+        line-height: 30px;
+    }
+    .slider-button {
+        margin: 5px 0px 0px;
+    }
+    .button-another {
+        font-size: 14px;
+        line-height: 25px;
+        padding: 5px 25px;
+    }
+    /*value area*/
+    .small-title {
+        font-size: 18px;
+        line-height: 20px;
+        margin-bottom: 5px;
+    }
+    .middle-title {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .division-two {
+        min-height: 420px;
+        margin-top: -100px;
+    }
+    .division-two p {
+        top: 50%;
+        font-size: 18px;
+        line-height: 26px;
+        text-align: center;
+        padding: 0px 65px !important;
+
+    }
+    /*****about us*****/
+    .side-image-area {
+        margin-bottom: 1rem;
+    }
+    .add-padding-right {
+        padding-right: 10px;
+    }
+    .paragraph-area p {
+        font-size: 15px;
+        line-height: 25px;
+        text-align: justify;
+    }
+    .btn-dashed {
+        font-size: 18px;
+        text-transform: capitalize;
+        line-height: 20px;
+        font-weight: 400;
+        color: #000;
+    }
+    /*******counter******/
+    .counter {
+        min-height: 445px;
+    }
+    .counter .heading-area {
+        margin-top: 5rem;
+        text-align: right;
+        margin-left: 7rem;
+    }
+    .counter-icon img {
+        width: 55px;
+    }
+    .counting {
+        font-size: 35px;
+        line-height: 38px;
+    }
+    .plus-icon {
+        font-size: 15px;
+        line-height: 40px;
+        top: 55px;
+        position: absolute;
+    }
+    .count-text {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .count-box {
+        margin-top: 1.5rem;
+    }
+    /* social */
+    .owl-controls .owl-buttons .owl-prev {
+        left: 0px;
+    }
+    .owl-controls .owl-buttons .owl-next {
+        right: 0px;
+    }
+    .social-content .paragraph-area p {
+        text-align: right;
+    }
+    .particels img {
+        width: 100px;
+    }
+    /***********our product**********/
+    .img-div img {
+        display: block;
+        overflow: hidden;
+        max-width: 100%;
+    }
+    .img-title-div a {
+        font-size: 18px;
+    }
+    /************* team ************/
+    .post-slide .post-content {
+        padding: 0px 15px 2px 15px;
+    }
+    .post-slide {
+        margin: 0px 5px 10px;
+        padding-top: 0px;
+    }
+    /******* call to action *******/
+    .call-to-area {
+        background-position: right;
+        min-height: 380px;
+    }
+    .call-to-content {
+        margin-top: 0.5rem;
+    }
+    .call-to-content h2 {
+        font-size: 25px;
+        line-height: 32px;
+    }
+    .call-to-content h4 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .call-to-area .button-area {
+        margin: 0.5rem 0rem;
+    }
+    .black-btn {
+        background: #001205;
+        font-size: 18px;
+        padding: 5px 30px;
+    }
+    .team-area .heading-area {
+        text-align: center;
+        margin-top: -100px;
+        padding: 0px 35px;
+    }
+    /********faq*****/
+    .add-padding {
+        padding: 0px 10px 0px 10px;
+    }
+    /***** footer ****/
+    .footer-menu-email {
+        text-align: left;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+    .footer-logo a img {
+        max-width: 200px;
+    }
+    .footer-paragraph p {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 404px){ 
+    /* sticky */
+    .sticky-mail-two {
+        display: none;
+    }
+    .email-sticky-area {
+        position: fixed;
+        width: 50px;
+    }
+    /* slider */
+    .cust-slider-img {
+        width: 100% !important;
+        min-height: 400px;
+        margin-bottom: 3rem;
+    }
+    .caption {
+        bottom: -14%;
+        left: 34%;
+        width: 90%;
+    }
+    .banner-heading {
+        font-size: 28px;
+        line-height: 30px;
+    }
+    .slider-button {
+        margin: 5px 0px 0px;
+    }
+    .button-another {
+        font-size: 14px;
+        line-height: 25px;
+        padding: 5px 25px;
+    }
+    /*value area*/
+    .small-title {
+        font-size: 18px;
+        line-height: 20px;
+        margin-bottom: 5px;
+    }
+    .middle-title {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .division-two {
+        min-height: 420px;
+        margin-top: -100px;
+    }
+    .division-two p {
+        top: 52%;
+        font-size: 18px;
+        line-height: 26px;
+        text-align: center;
+        padding: 0px 65px !important;
+    }
+    /*****about us*****/
+    .side-image-area {
+        margin-bottom: 2rem;
+    }
+    .add-padding-right {
+        padding-right: 10px;
+    }
+    .paragraph-area p {
+        font-size: 15px;
+        line-height: 25px;
+        text-align: justify;
+    }
+    .btn-dashed {
+        font-size: 18px;
+        text-transform: capitalize;
+        line-height: 20px;
+        font-weight: 400;
+        color: #000;
+    }
+    /*******counter******/
+    .counter {
+        min-height: 445px;
+    }
+    .counter .heading-area {
+        margin-top: 5rem;
+        text-align: right;
+        margin-left: 7rem;
+    }
+    .counter-icon img {
+        width: 55px;
+    }
+    .counting {
+        font-size: 35px;
+        line-height: 38px;
+    }
+    .plus-icon {
+        font-size: 15px;
+        line-height: 40px;
+        top: 55px;
+        position: absolute;
+    }
+    .count-text {
+        font-size: 12px;
+        line-height: 12px;
+    }
+    .count-box {
+        margin-top: 1.5rem;
+    }
+    /* social */
+    .owl-controls .owl-buttons .owl-prev {
+        left: 0px;
+    }
+    .owl-controls .owl-buttons .owl-next {
+        right: 0px;
+    }
+    .social-content .paragraph-area p {
+        text-align: right;
+    }
+    .particels img {
+        width: 100px;
+    }
+    /***********our product**********/
+    .img-div img {
+        display: block;
+        overflow: hidden;
+        max-width: 100%;
+    }
+    .img-title-div a {
+        font-size: 18px;
+    }
+    /************* team ************/
+    .post-slide .post-content {
+        padding: 0px 15px 2px 15px;
+    }
+    .post-slide {
+        margin: 0px 5px 10px;
+        padding-top: 0px;
+    }
+    /******* call to action *******/
+    .call-to-area {
+        background-position: right;
+        min-height: 380px;
+    }
+    .call-to-content {
+        margin-top: 0.5rem;
+    }
+    .call-to-content h2 {
+        font-size: 25px;
+        line-height: 32px;
+    }
+    .call-to-content h4 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .call-to-area .button-area {
+        margin: 0.5rem 0rem;
+    }
+    .black-btn {
+        background: #001205;
+        font-size: 18px;
+        padding: 5px 30px;
+    }
+    .team-area .heading-area {
+        text-align: center;
+        margin-top: -100px;
+        padding: 0px 35px;
+    }
+    /********faq*****/
+    .add-padding {
+        padding: 0px 10px 0px 10px;
+    }
+    /***** footer ****/
+    .footer-menu-email {
+        text-align: left;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+    .footer-logo a img {
+        max-width: 200px;
+    }
+
+}
+
+@media (max-width: 375px){
+    /*** sticky ****/
+    .sticky-mail-two {
+        display: none;
+    }
+    .email-sticky-area {
+        position: fixed;
+        width: 50px;
+    }
+    /**** slider ***/
+    .cust-slider-img {
+        width: 100% !important;
+        min-height: 380px;
+        margin-bottom: 3rem;
+    }
+    .caption {
+        bottom: -13%;
+        left: 35%;
+        width: 80%;
+    }
+    .banner-heading {
+        font-size: 25px;
+        line-height: 25px;
+    }
+    .slider-button {
+        margin: 5px 0px 0px;
+    }
+    .button-another {
+        font-size: 14px;
+        line-height: 25px;
+        padding: 5px 25px;
+    }
+    /*value area*/
+    .icon-text h5 {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .small-title {
+        font-size: 18px;
+        line-height: 20px;
+        margin-bottom: 5px;
+    }
+    .middle-title {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .division-two {
+        min-height: 370px;
+        margin-top: -100px;
+    }
+    .division-two p {
+        top: 50%;
+        font-size: 17px;
+        line-height: 25px;
+        text-align: center;
+        padding: 0px 65px !important;
+    }
+    /*****about us*****/
+    .side-image-area {
+        margin-bottom: 2rem;
+    }
+    .add-padding-right {
+        padding-right: 10px;
+    }
+    .paragraph-area p {
+        font-size: 15px;
+        line-height: 25px;
+        text-align: justify;
+    }
+    .btn-dashed {
+        font-size: 18px;
+        text-transform: capitalize;
+        line-height: 20px;
+        font-weight: 400;
+        color: #000;
+    }
+    /*******counter******/
+    .counter {
+        min-height: 445px;
+    }
+    .counter .heading-area {
+        margin-top: 5rem;
+        text-align: right;
+        margin-left: 7rem;
+    }
+    .counter-icon img {
+        width: 55px;
+    }
+    .counting {
+        font-size: 35px;
+        line-height: 38px;
+    }
+    .plus-icon {
+        font-size: 15px;
+        line-height: 40px;
+        top: 55px;
+        position: absolute;
+    }
+    .count-text {
+        font-size: 12px;
+        line-height: 12px;
+    }
+    .count-box {
+        margin-top: 1.5rem;
+    }
+    /* social */
+    .owl-controls .owl-buttons .owl-prev {
+        left: 0px;
+    }
+    .owl-controls .owl-buttons .owl-next {
+        right: 0px;
+    }
+    .social-content .paragraph-area p {
+        text-align: right;
+    }
+    .particels img {
+        width: 100px;
+    }
+    /***********our product**********/
+    .img-div img {
+        display: block;
+        overflow: hidden;
+        max-width: 100%;
+    }
+    .img-title-div a {
+        font-size: 18px;
+    }
+    /************* team ************/
+    .post-slide .post-content {
+        padding: 0px 15px 2px 15px;
+    }
+    .post-slide {
+        margin: 0px 5px 10px;
+        padding-top: 0px;
+    }
+    /******* call to action *******/
+    .call-to-area {
+        background-position: right;
+        min-height: 365px;
+    }
+    .call-to-content {
+        margin-top: 0.2rem;
+    }
+    .call-to-content h2 {
+        font-size: 25px;
+        line-height: 32px;
+    }
+    .call-to-content h4 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .call-to-area .button-area {
+        margin: 0.5rem 0rem;
+    }
+    .black-btn {
+        background: #001205;
+        font-size: 18px;
+        padding: 5px 30px;
+    }
+    .team-area .heading-area {
+        text-align: center;
+        margin-top: -100px;
+        padding: 0px 35px;
+    }
+    /********faq*****/
+    .add-padding {
+        padding: 0px 10px 0px 10px;
+    }
+    /***** footer ****/
+    .footer-menu-email {
+        text-align: left;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+    .footer-logo a img {
+        max-width: 200px;
+    }
+
+}
+
+@media (max-width: 360px){
+    /* sticky */
+    .sticky-mail-two {
+        display: none;
+    }
+    .email-sticky-area {
+        position: fixed;
+        width: 50px;
+    }
+    /* slider */
+    .cust-slider-img {
+        width: 100%;
+        min-height: 350px;
+        margin-bottom: 3rem;
+    }
+    .caption {
+        bottom: -14%;
+        left: 32%;
+        width: 80%;
+    }
+    .banner-heading {
+        font-size: 22px;
+        line-height: 25px;
+    }
+    .slider-button {
+        margin: 5px 0px 0px;
+    }
+    .button-another {
+        font-size: 14px;
+        line-height: 25px;
+        padding: 5px 25px;
+    }
+    /*value area*/
+    .icon-text h5 {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .small-title {
+        font-size: 18px;
+        line-height: 20px;
+        margin-bottom: 5px;
+    }
+    .middle-title {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .division-two {
+        min-height: 370px;
+        margin-top: -100px;
+    }
+    .division-two p {
+        top: 50%;
+        font-size: 15px;
+        line-height: 25px;
+        text-align: center;
+        padding: 0px 55px !important;
+    }
+    /*****about us*****/
+    .side-image-area {
+        margin-bottom: 2rem;
+    }
+    .add-padding-right {
+        padding-right: 10px;
+    }
+    .paragraph-area p {
+        font-size: 15px;
+        line-height: 25px;
+        text-align: justify;
+    }
+    .btn-dashed {
+        font-size: 18px;
+        text-transform: capitalize;
+        line-height: 20px;
+        font-weight: 400;
+        color: #000;
+    }
+    /*******counter******/
+    .counter {
+        min-height: 500px;
+    }
+    .counter .heading-area {
+        margin-top: 5rem;
+        text-align: right;
+        margin-left: 7rem;
+    }
+    .counter-icon img {
+        width: 55px;
+    }
+    .counting {
+        font-size: 35px;
+        line-height: 38px;
+    }
+    .plus-icon {
+        font-size: 15px;
+        line-height: 40px;
+        top: 48px;
+        position: absolute;
+    }
+    .count-text {
+        font-size: 12px;
+        line-height: 12px;
+    }
+    .count-box {
+        margin-top: 1rem;
+    }
+    /* social */
+    .owl-controls .owl-buttons .owl-prev {
+        left: 0px;
+    }
+    .owl-controls .owl-buttons .owl-next {
+        right: 0px;
+    }
+    .social-content .paragraph-area p {
+        text-align: right;
+    }
+    .particels img {
+        width: 100px;
+    }
+    /***********our product**********/
+    .img-div img {
+        display: block;
+        overflow: hidden;
+        max-width: 100%;
+    }
+    .img-title-div a {
+        font-size: 18px;
+    }
+    /************* team ************/
+    .post-slide .post-content {
+        padding: 0px 15px 2px 15px;
+    }
+    .post-slide {
+        margin: 0px 5px 10px;
+        padding-top: 0px;
+    }
+    /******* call to action *******/
+    .call-to-area {
+        background-position: right;
+        min-height: 370px;
+    }
+    .call-to-content {
+        margin-top: 0.4rem;
+    }
+    .call-to-content h2 {
+        font-size: 25px;
+        line-height: 32px;
+    }
+    .call-to-content h4 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .call-to-area .button-area {
+        margin: 0.5rem 0rem;
+    }
+    .black-btn {
+        background: #001205;
+        font-size: 18px;
+        padding: 5px 30px;
+    }
+    .team-area .heading-area {
+        text-align: center;
+        margin-top: -100px;
+        padding: 0px 35px;
+    }
+    /********faq*****/
+    .add-padding {
+        padding: 0px 10px 0px 10px;
+    }
+    /***** footer ****/
+    .footer-menu-email {
+        text-align: left;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+    .footer-logo a img {
+        max-width: 200px;
+    }
+}
